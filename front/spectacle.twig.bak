@@ -1,0 +1,20 @@
+<div class="col-sm-6 col-lg-4">
+	<div class="single_blog_item">
+		<div class="single_blog_img">
+			<img src="{{image_0}}" style="  border-radius: 10px 10px 0px 0px;
+" alt="">
+		</div>
+		<div class="single_blog_text">
+			<h3>
+				{{h3_0}}
+			</h3>
+			<p>
+				{{texte_0|raw}}
+			</p>
+			<a href="{{lienhref_0}}" class="btn_3">
+				{{lientext_0}}
+				<img src="front/img/icon/left_2.svg" alt="">
+			</a>
+		</div>
+	</div>
+</div>
